@@ -1,8 +1,3 @@
-# Exploratory-Data-Analysis-on-Supermarket-Sales-Data
-Here’s a **README.md** file for your project:
-
----
-
 # Exploratory Data Analysis on Supermarket Sales Dataset
 
 ## 🛒 Project Overview  
